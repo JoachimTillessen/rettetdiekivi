@@ -9,7 +9,6 @@
   --max-content-width: 775px;
 }
 
-
 body {
   font-family: var(--main-text-family);
   background-color: var(--main-bg-color);
@@ -57,7 +56,7 @@ h4 {
 }
 
 p {
-  margin-bottom: 0.8em;
+  margin: 0.8em 0;
 }
 
 a {
@@ -191,8 +190,10 @@ li {
   color: var(--secondary-text-color);
 }
 
-.video {
-  margin-bottom: 20px;
+.video-frame {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: none;
 }
 
 @media screen and (min-width: 480px) {
