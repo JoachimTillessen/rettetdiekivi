@@ -212,4 +212,11 @@ li {
   .main-footer {
     padding-bottom: 5em;
   }
+  .footer-flow {
+    display: flex;
+    justify-content: space-between;
+  }
+  .footer-column {
+    width: 45%
+  }
 }
