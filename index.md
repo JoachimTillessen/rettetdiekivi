@@ -17,6 +17,11 @@ header_content: >-
     <p class="p-important">Das lassen wir nicht zu!</p>
     <h2>Solidarität mit der Kindervilla</h2>
 ---
+<div class="teasers">
+{% include teaser-lichter-2022.html %}
+{% include teaser-petition.html %}
+</div>
+
 <span class="anchor__label" id="standpunkt">Standpunkt</span>
 
 ## Inklusion geht alle an
