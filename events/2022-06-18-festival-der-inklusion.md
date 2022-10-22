@@ -8,7 +8,7 @@ description: >-
     wir dieses Jahr unser 30 + 1 jähriges Jubiläum mit einem großen Familienfest rund um unsere Kita in der Fruchtallee
     22.
 header_content: >-
-    <img src="images/keyvisual.svg" class="key-visual" alt="Rettet die KiVi, Dino mit Kindern">
+    <img src="/images/keyvisual.svg" class="key-visual" alt="Rettet die KiVi, Dino mit Kindern">
     <h1>
     Festival der
     <span class="main-cause">Inklusion</span>
@@ -34,7 +34,7 @@ Wiese Meißnerstraße
 <h4>
 <span class="headline-black">12:00 - 12:30 Uhr</span>
 <br/>
-<span class="headline-white">Begrüßung & Ankunft <a href="index.html#demo">Demo</a></span>
+<span class="headline-white">Begrüßung & Ankunft <a href="/events/2022-06-18-soli-marsch.html">Demo</a></span>
 </h4>
 <h4>
 <span class="headline-black">12:30 - 13:00 Uhr</span>
@@ -72,7 +72,6 @@ Kleine Bühne
 <br/>
 Zirkuszelt
 </h2>
-</h4>
 <h4>
 <span class="headline-black">14:00 - 14:30 Uhr</span>
 <br/>

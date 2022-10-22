@@ -68,35 +68,6 @@ Wir fordern die evangelische Gemeinde dazu auf, unseren Mietvertrag zu verlänge
 petition.rettetdiekivi.de
 </a>
 
-<span class="anchor__label" id="demo">Demo</span>
-
-## Soli-Marsch mit Kind und Kegel
-
-### Samstag, 18.06.2022
-
-<p class="p-important">
-Wir laden alle kleinen und großen Hamburger*innen ein mit uns für Inklusion auf die Straße zu gehen. Wir fordern den Erhalt der KiVi und dass Kirche, Politik und Verwaltung ihre Verantwortung wahrnehmen und Inklusion in Eimsbüttel aktiv ermöglichen.
-</p>
-
-<p class="p-important">
-Unser Soli-Marsch startet beim Grünen Jäger und endet an der großen Bühne unseres Festivals der Inklusion.
-</p>
-
-<h4>
-<span class="headline-black">Start 10:30 Uhr</span>
-<br/>
-<span class="headline-black">Beim Grünen Jäger</span>
-</h4>
-<h4>
-<span class="headline-black">Ankunft 12:00 Uhr</span>
-<br/>
-<span class="headline-black">Beim <a href="festival-der-inklusion.md">Festival der Inklusion</a></span>
-<br/>
-<span class="headline-black">Kindervilla</span>
-<br/>
-<span class="headline-black">Fruchtallee 22</span>
- </h4>
-
 <span class="anchor__label" id="immobiliensuche">Immobiliensuche</span>
 
 ## Inklusion braucht Platz
