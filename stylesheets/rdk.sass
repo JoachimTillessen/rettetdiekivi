@@ -1,12 +1,13 @@
 ---
 ---
 
+@import "defaults"
+@import "colors"
+@import "content-flow"
+@import "header"
+@import "teasers"
+
 \:root
-  --main-bg-color:#e4007d
-  --main-text-color:#000000
-  --secondary-text-color:#ffffff
-  --headline-text-color:#ffec00
-  --link-text-color:#ffec00
   --main-text-family:acumin-pro, sans-serif
   --headline-text-family:acumin-pro-condensed, sans-serif
   --max-content-width:775px
@@ -18,7 +19,7 @@ body
   font-size: 4vw
   line-height: 1.5em
   font-weight: 400
-  padding: 1.5em 0 0
+  padding: 0
   margin: 0
 
 h1, h2, h3, h4
@@ -67,24 +68,8 @@ li
   color: var(--secondary-text-color)
   font-weight: 700
 
-.content-flow
-  max-width: 775px
-  padding: 0 4%
-  margin: 0 auto
-
 .festival
   text-align: center
-
-.main-cause
-  display: block
-  font-size: 2.1em
-  margin-bottom: 0.2em
-
-.key-visual
-  width: 80%
-  max-width: 400px
-  margin: 0 auto
-  display: block
 
 .anchor
   margin: 2em 0 -1em
@@ -111,6 +96,7 @@ li
   margin-bottom: 0.5em
 
   img
+    width: auto
     height: 1.4em
     margin-right: 0.1em
 
@@ -168,8 +154,6 @@ li
   width: 100%
   aspect-ratio: 16 / 9
   border: none
-
-@import "teasers"
 
 @media screen and (min-width: 480px)
   body
