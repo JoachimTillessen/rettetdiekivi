@@ -3,6 +3,7 @@ layout: default
 title: Lichter für Inklusion
 content_class: festival
 header_class: lichter
+og_image: og_image_lichter.png
 description: >-
     Laternenumzug für mehr Teilhabe von Menschen mit Behinderung und den Erhalt der Kindervilla Fruchtallee
 header_content: >-
