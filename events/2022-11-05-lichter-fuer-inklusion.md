@@ -6,7 +6,9 @@ header_class: lichter
 description: >-
     Laternenumzug für mehr Teilhabe von Menschen mit Behinderung und den Erhalt der Kindervilla Fruchtallee
 header_content: >-
+    <a href="/">
     <img src="/images/lichter_fuer_inklusion.svg" class="header-banner-image" alt="Laternenumzug für Inklusion mit KiVi-Dino">
+    </a>
     <h1>
     Lichter für
     <span class="main-cause">Inklusion</span>

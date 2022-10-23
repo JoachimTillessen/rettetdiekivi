@@ -6,7 +6,9 @@ description: >-
     unverzichtbar in Eimsbüttel. Da die evangelische Gemeinde unseren Mietvertrag nicht verlängern möchte, droht der KiVi
     nun die Schließung! Das lassen wir nicht zu!
 header_content: >-
-    <img src="images/keyvisual.svg" class="key-visual" alt="Rettet die KiVi, Dino mit Kindern">
+    <a href="/">
+    <img src="/images/keyvisual.svg" class="key-visual" alt="Rettet die KiVi, Dino mit Kindern">
+    </a>
     <h1>
     <span class="main-cause">Inklusion</span>
     statt Verdrängung

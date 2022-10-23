@@ -7,7 +7,9 @@ description: >-
     wir dieses Jahr unser 30 + 1 jähriges Jubiläum mit einem großen Familienfest rund um unsere Kita in der Fruchtallee
     22.
 header_content: >-
+    <a href="/">
     <img src="/images/keyvisual.svg" class="key-visual" alt="Rettet die KiVi, Dino mit Kindern">
+    </a>
     <h1>
     Soli-Marsch für
     <span class="main-cause">Inklusion</span>
