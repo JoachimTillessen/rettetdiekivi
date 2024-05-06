@@ -36,7 +36,7 @@ Unser Soli-Marsch startet beim Grünen Jäger und endet an der großen Bühne un
 <h4>
 <span class="headline-black">Ankunft 12:00 Uhr</span>
 <br/>
-<span class="headline-black">Beim <a href="/events/2022-06-18-festival-der-inklusion.html">Festival der Inklusion</a></span>
+<span class="headline-black">Beim <a href="/protest/2022-06-18-festival-der-inklusion.html">Festival der Inklusion</a></span>
 <br/>
 <span class="headline-black">Kindervilla</span>
 <br/>

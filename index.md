@@ -3,8 +3,7 @@ layout: default
 title: Inklusion statt Verdrängung
 description: >-
     Seit über 30 Jahren gibt es die Kindervilla in der Fruchtallee. Eine inklusive Einrichtung mit 50 Kitaplätzen –
-    unverzichtbar in Eimsbüttel. Da die evangelische Gemeinde unseren Mietvertrag nicht verlängern möchte, droht der KiVi
-    nun die Schließung! Das lassen wir nicht zu!
+    unverzichtbar in Eimsbüttel. Nach langem Ringen haben wir endlich ein neues Zuhause gefunden – zumindest für die nächsten fünf Jahre. Im Spätsommer steht der Umzug in einen Pavillon an der Grundschule Eduardstraße an.
 header_content: >-
     <a href="/">
     <img src="/images/keyvisual.svg" class="key-visual" alt="Rettet die KiVi, Dino mit Kindern">
@@ -14,74 +13,73 @@ header_content: >-
     statt Verdrängung
     </h1>
     <p class="p-important--alternate">
-    Seit über 30 Jahren gibt es die Kindervilla in der Fruchtallee. Eine inklusive Einrichtung mit 50 Kitaplätzen – unverzichtbar in Eimsbüttel. Da die evangelische Gemeinde unseren Mietvertrag nicht verlängern möchte, droht der KiVi nun die Schließung!
+    Seit über 30 Jahren gibt es die Kindervilla in der Fruchtallee. Eine inklusive Einrichtung mit 50 Kitaplätzen – unverzichtbar in Eimsbüttel.
     </p>
-    <p class="p-important">Das lassen wir nicht zu!</p>
-    <h2>Solidarität mit der Kindervilla</h2>
+    <p class="p-important">
+    Nach langem Ringen haben wir endlich ein neues Zuhause gefunden – zumindest für die nächsten fünf Jahre. Im Spätsommer steht der Umzug in einen Pavillon an der Grundschule Eduardstraße an. Unsere Erleichterung könnte größer nicht sein!</p>
+    <p>
+    Die letzten Jahre war die Ungewissheit und Sorge um den Fortbestand der „Kindervilla Fruchtallee e.V.“ ständiger Begleiter bei uns Eltern und Mitarbeitenden der KiVi. Mit großem Engagement haben wir immer wieder auf die Bedrohung der Schließung unserer einmaligen Inklusions-Kita aufmerksam gemacht.
+    </p>
+    <p class="p-important">
+    Es ging uns dabei nicht nur um unsere eigenen Familien und Arbeitsplätze sondern ganz ausdrücklich auch um die Sichtbarkeit und Teilhabe für Menschen mit Behinderung in Eimsbüttel.
+    </p>
 ---
-<div class="teasers">
-{% include teaser-lichter-2022.html %}
-{% include teaser-petition.html %}
-</div>
-
-<span class="anchor__label" id="standpunkt">Standpunkt</span>
-
-## Inklusion geht alle an
-
-<iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/gc656CUaofM?rel=0" title="Demonstration Inklusion statt Verdrängung" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-Inklusion ist eine gesamtgesellschaftliche Aufgabe, die nur dann gelingen kann, wenn alle Akteur*innen an einem Strang ziehen!
-
-Unsere Kita stellt sich seit 31 Jahren dieser Aufgabe und hat mehrere hundert Kinder sowie deren Familien dabei begleitet, sich in einer noch nicht inklusiv geöffneten Gesellschaft gut aufzustellen. Wir stehen mit unserer täglichen Arbeit für die Rechte und Chancen von Kindern mit Behinderung ein und geben ihren Familien Mut und Unterstützung.
-
-<p class="p-important">
-Wir erwarten, dass auch Kirche, Politik und Verwaltung ihre Verantwortung wahrnehmen und Inklusion in Eimsbüttel aktiv ermöglichen.
+<p class="anchor" id="zuhause">
+<span class="anchor__label">neues Zuhause</span>
 </p>
 
-## Inklusion braucht Raum
+## das neue Zuhause der KiVi
 
-Wir haben einen Ort geschaffen, an dem sich jede*r willkommen und erwünscht fühlen kann. Durch die Beendigung des Mietvertrags droht dieser Ort verloren zu gehen. Trotz intensiver Suche ist es uns bisher nicht gelungen, auf dem offenen Immobilienmarkt eine neue Heimat für unsere Kita zu finden.
+Nach etlichen Gesprächen mit der Sozialbehörde und der Evangelischen Kirchengemeinde Eimsbüttel, die Vermieterin des ursprünglichen Standortes ist, zeichnete sich Anfang des Jahres 2024 endlich eine Lösung ab. Ein zurzeit leerstehender Pavillon auf dem Gelände der Grundschule Eduardstraße wird das neue Zuhause der KiVi.
 
-## Inklusion braucht politischen Willen
-
-Zu ihren konkreten Plänen für unser aktuelles Gebäude macht die Kirche bis zum heutigen Tag öffentlich keine Angaben. Zunächst wurden finanzielle Beweggründe genannt, mittlerweile ist nebulös von „eigenen Vorhaben, Projekten und Umstrukturierungen“ die Rede.
-
+<img src="images/pavillion-eduartstrasse.jpg" alt="der Pavillion in der Eduartstraße muss saniert werden" class="content-image"/>
+  
 <p class="p-important">
-Das hinterlässt bei uns viele Fragen und den Eindruck, dass die Chancen von benachteiligten Kindern in der evangelischen Kirche nicht die allerhöchste Priorität genießen.
+Das Gebäude muss allerdings auf eigene Kosten saniert werden und der Mietvertrag ist auf fünf Jahre befristet. Trotzdem ist die Freude groß. Vor allem für die Eltern von Kindern mit Förderbedarf ist die Nachricht eine große Erleichterung.
 </p>
 
-Von Politik und Verwaltung haben wir leider bisher ebenfalls keine verwertbare Hilfe erhalten, obwohl wir unsere Anliegen seit Jahren aktiv vorbringen. Von den großen Fraktionen in der Eimsbüttler Bezirksversammlung (GRÜNE, SPD und CDU) kommt allenfalls ein bedauerndes Achselzucken. Die GRÜNEN haben uns trotz wiederholter Anfragen bisher noch überhaupt kein Gesprächsangebot gemacht.
-
-Wir fragen uns, ob es an einer großen Nähe zur evangelischen Kirche liegt, dass die GRÜNEN auf einen Dialog mit weltlichen Institutionen in Eimsbüttel verzichten.
-
-<span class="anchor__label" id="petition">Petition</span>
-
-## Inklusion braucht eine Stimme
-
-Wir – die Eltern der Kinder in der Kindervilla – fühlen uns im Stich gelassen! Unser Problem ist seit Jahren bekannt und findet doch keine Beachtung. Wir bitten alle Eltern, Großeltern, Erzieher*innen und Bürger*innen, sich mit der Kindervilla zu solidarisieren und für den Erhalt dieser wichtigen Institution einzustehen.
-
-<p class="p-important">
-Wir fordern von Politik und Verwaltung aktive Unterstützung bei der Liegenschaftssuche! Wir brauchen Politiker*innen, die den gesellschaftlichen Auftrag der Teilhabe ALLER ernst nehmen.
+Das Team ist nun schon mitten in der Planung die neuen Räumlichkeiten für die Kinder zu gestalten wollen Auch für inklusive Spielmöglichkeiten auf dem großzügigen Außengelände gibt es schon Ideen.  
+ 
+<p class="anchor" id="spenden">
+<span class="anchor__label">Spenden</span>
 </p>
 
+## Wir sind auf Spenden angewiesen
+
+<p class="p-important--alternate">
+Finanziell haben sich die Vorstände seit Jahren auf diese Situation vorbereitet. Aber wir sind eine soziale Einrichtung und sind in dieser Phase auf Spenden angewiesen.
+</p>
 <p class="p-important">
-Wir fordern die evangelische Gemeinde dazu auf, unseren Mietvertrag zu verlängern, bis ein neues Objekt gefunden ist! Wir appellieren an die soziale Verantwortung der Kirche: Lassen Sie nicht zu, dass eine seit 30 Jahren bewährte inklusive Gemeinschaft zerfällt!
+Wir hoffen auf finanzielle Unterstützung von Unterstützer*innen aus dem Viertel, um unseren KiVi-Kindern ein schönes neues Zuhause zu schaffen!
 </p>
 
-## Unterschreibe hier:
+### Dein Beitrag für Inklusion in Eimsbüttel
 
-<a href="http://petition.rettetdiekivi.de" class="profile" target="_blank">
-<img src="images/petition.svg" alt="Stift">
-petition.rettetdiekivi.de
+<a href="https://www.betterplace.org/de/projects/136879-rettet-die-kivi-unterstuetze-den-neuanfang" class="profile" target="_blank">
+<img src="images/spenden.svg" alt="Sparschwein">
+Spende auf betterplace.org
+</a>
+<p class="anchor" id="kitaplatz">
+<span class="anchor__label">Kitaplätze</span>
+</p>
+
+## Neue Kinder in der KiVi willkommen
+
+<p class="p-important">
+Tatsächlich gibt es nach der langen Zeit der Unsicherheit noch freie Plätze für einige Kinder, vor allem mit dem Geburtsjahr 2021 und 2022. Meldet Euch, wenn Ihr Interesse habt. 
+</p>
+
+### Alle Infos hier:
+
+<a href="https://www.kitakivi.de" class="profile" target="_blank">
+<img src="images/kitaplatz.svg" alt="Kitaplatz">
+www.kitakivi.de
 </a>
 
-<span class="anchor__label" id="immobiliensuche">Immobiliensuche</span>
+## Langfristige Perspektive für die KiVi im Viertel
 
-## Inklusion braucht Platz
-
-Wir suchen eine schöne, neue Bleibe, möglichst im erreichbaren Umfeld des jetzigen Standorts.
-
-*   Platz für 40 bis 60 Kinder
-*   215 – 315 qm Fläche
-*   bespielbare Außenfläche
-*   2 – 3 Parkplätze
+Auch nach Ablauf der fünf Jahre in der Eduardstraße zeichnet sich eine Perspektive für die KiVi im Viertel ab. „Wir sind sehr hoffnungsvoll, dass ein Bauvorhaben, das unsere Kita als Mieterin mit einplant bis dahin realisiert wird“, sagt die stellvertretende Leitung Anke Wortmann. 
+ 
+<p class="p-important--alternate">
+Bis die neuen Räumlichkeiten in der Eduardstraße wirklich bezugsfertig sind, hat die Evangelische Gemeinde den Verbleib der KiVi im alten Pastorat in der Fruchtallee zugesagt, auch wenn die Baumaßnahmen bis zum Ablaufdatum des Mietvertrags nicht beendet sein sollten.
+</p>

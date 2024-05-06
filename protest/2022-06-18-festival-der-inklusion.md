@@ -36,7 +36,7 @@ Wiese Meißnerstraße
 <h4>
 <span class="headline-black">12:00 - 12:30 Uhr</span>
 <br/>
-<span class="headline-white">Begrüßung & Ankunft <a href="/events/2022-06-18-soli-marsch.html">Demo</a></span>
+<span class="headline-white">Begrüßung & Ankunft <a href="/protest/2022-06-18-soli-marsch.html">Demo</a></span>
 </h4>
 <h4>
 <span class="headline-black">12:30 - 13:00 Uhr</span>
