@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inklusion statt Verdrängung
+title: Die KiVi bleibt im Kiez
 description: >-
     Seit über 30 Jahren gibt es die Kindervilla in der Fruchtallee. Eine inklusive Einrichtung mit 50 Kitaplätzen –
     unverzichtbar in Eimsbüttel. Nach langem Ringen haben wir endlich ein neues Zuhause gefunden – zumindest für die nächsten fünf Jahre. Im Spätsommer steht der Umzug in einen Pavillon an der Grundschule Eduardstraße an.
@@ -9,8 +9,8 @@ header_content: >-
     <img src="/images/keyvisual.svg" class="key-visual" alt="Rettet die KiVi, Dino mit Kindern">
     </a>
     <h1>
-    <span class="main-cause">Inklusion</span>
-    statt Verdrängung
+    <span class="main-cause">Die KiVi</span>
+    bleibt im Kiez
     </h1>
     <p class="p-important--alternate">
     Seit über 30 Jahren gibt es die Kindervilla in der Fruchtallee. Eine inklusive Einrichtung mit 50 Kitaplätzen – unverzichtbar in Eimsbüttel.
@@ -50,7 +50,7 @@ Das Team ist nun schon mitten in der Planung die neuen Räumlichkeiten für die 
 Finanziell haben sich die Vorstände seit Jahren auf diese Situation vorbereitet. Aber wir sind eine soziale Einrichtung und sind in dieser Phase auf Spenden angewiesen.
 </p>
 <p class="p-important">
-Wir hoffen auf finanzielle Unterstützung von Unterstützer*innen aus dem Viertel, um unseren KiVi-Kindern ein schönes neues Zuhause zu schaffen!
+Wir freuen uns über jede finanzielle Unterstützung für inklusive Kinderbetreuung und ein schönes neues Zuhause für die KiVi-Kinder!
 </p>
 
 ### Dein Beitrag für Inklusion in Eimsbüttel
