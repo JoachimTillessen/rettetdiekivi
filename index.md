@@ -46,9 +46,8 @@ Das Team ist nun schon mitten in der Planung die neuen Räumlichkeiten für die 
 
 ## Wir sind auf Spenden angewiesen
 
-<p class="p-important--alternate">
-Finanziell haben sich die Vorstände seit Jahren auf diese Situation vorbereitet. Aber wir sind eine soziale Einrichtung und sind in dieser Phase auf Spenden angewiesen.
-</p>
+Finanziell haben sich die Vorstände seit Jahren auf den Umzug vorbereitet. Aber wir sind eine soziale Einrichtung und sind in dieser Phase auf Spenden angewiesen.
+
 <p class="p-important">
 Wir freuen uns über jede finanzielle Unterstützung für inklusive Kinderbetreuung und ein schönes neues Zuhause für die KiVi-Kinder!
 </p>
